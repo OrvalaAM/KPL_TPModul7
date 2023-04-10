@@ -1,0 +1,17 @@
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\bin\Debug\net6.0\tpmodul7_1302204105.exe
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\bin\Debug\net6.0\tpmodul7_1302204105.deps.json
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\bin\Debug\net6.0\tpmodul7_1302204105.runtimeconfig.json
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\bin\Debug\net6.0\tpmodul7_1302204105.dll
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\bin\Debug\net6.0\tpmodul7_1302204105.pdb
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.csproj.AssemblyReference.cache
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.AssemblyInfoInputs.cache
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.AssemblyInfo.cs
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.csproj.CoreCompileInputs.cache
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.dll
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\refint\tpmodul7_1302204105.dll
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.pdb
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.genruntimeconfig.cache
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\ref\tpmodul7_1302204105.dll
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul7_1302204105\tpmodul7_1302204105\obj\Debug\net6.0\tpmodul7_1302204105.csproj.CopyComplete

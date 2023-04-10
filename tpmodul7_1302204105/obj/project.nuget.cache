@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vk/Hq5rMPxierWHs7TIAWmYwL0CytFYmKKWO/APgMJVfB684btFzBzBB9vz4YpsBHPwxW/s7YcFlWB9GBq0eVA==",
+  "dgSpecHash": "p4i9YKNgytwXI+OsLePji81JwoJm6dtwPX0YNklj5b9mtKlaCxZQsQ3JBBX+xX/RjRxKr50lkgqoEztFWxTDeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\orval\\Documents\\Kuliah\\KPL\\tpmodul7_1302204105\\tpmodul7_1302204105\\tpmodul7_1302204105.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\orval\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
